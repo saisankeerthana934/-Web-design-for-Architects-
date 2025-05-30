@@ -28,8 +28,7 @@ Aesthetic card section for showcasing content
 
 Easily extendable for more sections or dynamic content
 
-📸 Live Preview
-You can view the live version here: GitHub Pages Link
+
 
 🚀 How to Use
 Clone the repository:
@@ -37,11 +36,11 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/saisankeerthana934/-Web-design-for-Architects
 Navigate into the folder:
 
 bash
 Copy
 Edit
-cd your-repo-name
+cd -Web-design-for-Architects-
 Open index.html in your browser.
